@@ -74,6 +74,10 @@
           <option name="url" value="https://github.com/NervJS/taro-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/crazy365966834/idea-settings.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\s-early" />
