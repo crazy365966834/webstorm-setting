@@ -110,8 +110,12 @@
           <option name="url" value="https://code.aliyun.com/searly_miniapp/sel-site.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/waltz/vgrid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\s-early" />
+    <option name="cloneParentDir" value="D:\waltz4" />
   </component>
 </application>
