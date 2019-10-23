@@ -27,5 +27,4 @@
   <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="JSIgnoredPromiseFromCall" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
-  <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
 </profile>
