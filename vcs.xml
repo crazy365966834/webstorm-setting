@@ -134,8 +134,12 @@
           <option name="url" value="http://headingxm123.asuscomm.com:8932/searly/site.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ali-sdk/ali-oss.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\s-early" />
+    <option name="cloneParentDir" value="D:\xxx" />
   </component>
 </application>
