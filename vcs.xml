@@ -150,8 +150,16 @@
           <option name="url" value="http://headingxm123.asuscomm.com:8932" />
           <option name="userName" value="chenrizhang" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@headingxm123.asuscomm.com:mingkanghui/mini-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://headingxm123.asuscomm.com:8932/mingkanghui/mini-app" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\s-early" />
+    <option name="cloneParentDir" value="D:\s-early\dingtalk" />
   </component>
 </application>
