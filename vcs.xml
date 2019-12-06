@@ -190,8 +190,12 @@
           <option name="url" value="http://searly.asuscomm.com:8932/waltz/vgrid.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.app.hd123.cn:10080/mas/mas-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\s-early\waltz" />
+    <option name="cloneParentDir" value="D:\xxx" />
   </component>
 </application>
