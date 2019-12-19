@@ -4,6 +4,7 @@
       <mapping ext="axml" type="HTML" />
       <mapping pattern="general-api" type="PLAIN_TEXT" />
       <mapping ext="acss" type="SCSS" />
+      <mapping ext="sjs" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
